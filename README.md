@@ -1,6 +1,6 @@
 ### Simplify the require/import paths in your project and avoid ../../../ circles of hell
 
-Please checkout the article related to this repo at [dev.to](https://dev.to/mjraadi/simplify-the-require-import-paths-in-your-project-and-avoid-circles-of-hell-10aj-temp-slug-4446438)
+Please checkout the article related to this repo at [dev.to](https://dev.to/mjraadi/simplify-the-require-import-paths-in-your-project-and-avoid-circles-of-hell-51bj)
 
 ### About Me
 I am a full stack web developer and co-founder of [Bits n Bytes Dev Team](https://www.bitsnbytes.ir), a small group of highly talented and professional freelance developers, where we provide custom web application development services based on cutting-edge technologies, tailored to client's unique business needs. 
